@@ -12,7 +12,7 @@ body {
 }
 .moviePic {
   height: 350px;
-  width: 250px;
+  width: 100%;
   opacity: 0.9;
   border-radius: 10px;
   box-shadow: 0 6px 15px rgba(0,0,0,0.4);
@@ -27,7 +27,7 @@ body {
   text-align: center;
   font-size: 18px;
   background-color: lightgreen;
-  padding: 12px;
+  padding: 18px;
   border-radius: 8px;
   margin-bottom: 10px;
 }
